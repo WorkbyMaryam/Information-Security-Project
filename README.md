@@ -1,5 +1,4 @@
 # Information-Security-Project
-<br>
 # Phishing Attack Detection Using AI
 
 **Description:**  
