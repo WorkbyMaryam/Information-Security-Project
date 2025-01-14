@@ -1,6 +1,6 @@
 # Information-Security-Project
 <br>
-**Title:** Phishing Attack Detection Using AI
+# Phishing Attack Detection Using AI
 
 **Description:**  
 This repository contains the research project "Phishing Attack Detection Using AI," conducted by Anna Rai, Wajiha Naveed, and Maryam Nasir at FAST-NU, Lahore, Pakistan. The project explores advanced methods to detect and prevent phishing attacks using Artificial Intelligence (AI) techniques.  
